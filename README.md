@@ -34,5 +34,5 @@ related to data integration, data sharing, data security, data back-up, data rec
 more. Present some de-identified data or documents that can be used as examples. 
 d. Discuss any developed plan (short-term or long-term strategy) to deal with the above
 issues. If the company hasn’t developed any plan, please come out with your suggestions.
-6. You can provide any other interesting findings besides the above areas. Discuss the lessons learned
-from the ERP implementation project in this company
+6. Other interesting findings and lessons learned
+from the ERP implementation project in this company.
