@@ -24,3 +24,4 @@ SAP ERP • Power BI • Business Analysis • ERP Strategy • Reporting \& Doc
 
 
 
+
